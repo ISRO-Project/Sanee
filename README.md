@@ -225,6 +225,8 @@ I2C, or Inter-Integrated Circuit, is a **serial communication protocol** that al
 * Configure the GPIO block(assign it to the LEDs) as shown, uart is default.
 ![1](https://github.com/ISRO-Project/Sanee/assets/75088597/3995e500-8fab-430d-9a3b-720e2bd8f48b)
 
+* Run Connection and Block automation.
+
 * Block Diagram
 ![2](https://github.com/ISRO-Project/Sanee/assets/75088597/5602405d-e566-434e-95bb-04feea77fc23)
 
