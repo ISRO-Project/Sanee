@@ -213,6 +213,8 @@ I2C, or Inter-Integrated Circuit, is a **serial communication protocol** that al
 <details>
 <summary>WEEK 4</summary>
 
+<br>
+
 <details>
 <summary>Day 1 & Day 2</summary>
 
@@ -284,12 +286,6 @@ int main() {
 * Corresponding LEDs should light up on pressing 0-7 keys.
 
 * Input is given through com.
-
-
-
-
-
-
 </details>
 
 
